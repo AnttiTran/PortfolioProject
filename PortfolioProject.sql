@@ -180,5 +180,7 @@ JOIN
     AND dea.date = vac.date
  WHERE dea.continent is not null
 --ORDER BY 2,3   
+
+-- View Temporary Worktable
 SELECT *
 FROM #PercentPopulationVaccinated;
