@@ -1,15 +1,6 @@
-# PortfolioProject COVID-19 Data Analysis Project
-This project involves analyzing COVID-19 data using SQL to gain insights into the pandemic's impact on different regions. The primary focus is on calculating vaccination rates and understanding the relationship between vaccination efforts and COVID-19 case and death rates.
+My name is Antti Tran. This is Github, where I post projects that I have been working on:
+- Data exploration on SQL: This project involves analyzing COVID-19 data using SQL to gain insights into the pandemic's impact on different regions. The primary focus is on calculating vaccination rates and understanding the relationship between vaccination efforts and COVID-19 case and death rates.
+- Data cleaning on SQL: This project focuses on cleaning and preparing the Nashville Housing dataset for better analysis and visualization. Data cleaning is a critical step to ensure the accuracy and reliability of insights drawn from the data.
+- Web scrapping data on Python: This Python project is to scrape data from Tokmani using BeautifulSoup and Requests.
 
-Key Components:
-
-Data Sources: Two datasets are used, one for COVID-19 case and death statistics (CovidDeaths table) and another for vaccination records (CovidVaccination table).
-
-SQL Operations:
-- Data Cleaning and Integration: Combining datasets using SQL JOIN operations to integrate COVID-19 case data with vaccination data.
-- Aggregations and Calculations: Using SQL window functions and aggregate functions to calculate total vaccinations over time, death percentages, and vaccination rates.
-- Temporary Table Usage: Storing intermediate results in temporary tables for further analysis.
-  
-Main Objective:
-
-To calculate the percentage of the population vaccinated across various locations and analyze how vaccination rates correlate with the spread and severity of COVID-19.
+TO BE CONTINUED
