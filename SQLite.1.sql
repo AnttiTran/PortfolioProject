@@ -44,9 +44,7 @@ and categories.CategoryID = products.CategoryID
 Order By Products.Price DESC
 
 #7
-#1  tuotteiden nimet, 
-jotka kuuluvat Seafood-kategoriaan ja 
-jotka on tuotettu Saksassa.
+#1  Mitkä ovat tuotteiden nimet, jotka kuuluvat Seafood-kategoriaan ja jotka on tuotettu Saksassa.
 
 SELECT Products.ProductName from Products, Categories, Suppliers 
 WHERE Products.CategoryID = Categories.CategoryID
